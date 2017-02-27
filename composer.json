@@ -1,4 +1,7 @@
 {
+    "name": "fritsvt/slim-skeleton",
+    "description": "Simple slim skeleton using php-di bridge and twig views",
+    "type": "project",
     "require": {
         "slim/twig-view": "^2.2",
         "php-di/slim-bridge": "1.0.2",
