@@ -5,11 +5,11 @@ For this application I have chosen a php-di/slim-bridge for dependency injection
 
 ###Installation
 ```
-git clone https://github.com/fritsvt/slim-di-skeleton
+composer create-project fritsvt/slim-skeleton
 ```
 
 ###Run the project
-To run the slim application execute the command below
+To run the slim application simply execute the command below
 ```
 php -S localhost:8000 -t public/
 ```
