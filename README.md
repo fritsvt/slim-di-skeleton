@@ -13,5 +13,3 @@ To run the slim application simply execute the command below
 ```
 php -S localhost:8000 -t public/
 ```
-
-I hope to get this on composer soon....
